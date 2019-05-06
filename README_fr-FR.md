@@ -27,14 +27,14 @@ L'image ci-dessous montre comment git sauvegarde les données en fonction du tem
 
 ![](https://i.stack.imgur.com/AQ5TG.png)
 
-## Why are commit messages important?
+## Pourquoi les commits messages sont important ?
 
-- To speed up and streamline code reviews
-- To help in the understanding of a change
-- To explain "the whys" that cannot be described only with code
-- To help future maintainers figure out why and how changes were made, making troubleshooting and debugging easier
+- Pour accélerrer et rationnaliser les revues de code
+- Pour aider la comprehension d'un changement
+- Pour expliquer les "pourquoi" qui ne peuvent etre decris seulement avec le code
+- Pour aider les futurs mainteneurs à comprendre pourquoi et comment les changement ont été fait, et pour faciliter le dépannage et le débogage
 
-To maximize those outcomes, we can use some good practices and standards described in the next section.
+Pour maximiser ces résultats, nous pouvons utiliser certaines bonnes pratiques et normes décrites dans la section suivante.
 
 ## Good practices
 
